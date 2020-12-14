@@ -36,4 +36,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping("/navbar")
+	public String navbar(Model model) {
+		return "layoutTest";
+	}
 }

@@ -13,5 +13,8 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <P>  Docker, 웹서버, WAS 등 인프라 구축 테스트 중임! </P>
+
+<input type="button" onclick="location.href='/jj/navbar'" value="navbar">
 </body>
 </html>
+ 
